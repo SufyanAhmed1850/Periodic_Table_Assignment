@@ -1,0 +1,61 @@
+.head{
+    text-align: center;
+    background-color: lightgrey;
+    font-family: 'Kanit', sans-serif;
+
+}
+td{
+    text-align: center;
+    border: 1px solid black;
+    empty-cells: hide;
+    font-family: 'Kanit', sans-serif;
+}
+.full{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    white-space: nowrap;
+}
+td:empty{
+    border: 0;
+}
+.half{
+    width: 50%;
+    margin: 0 auto 50px auto;
+    border-collapse: collapse;
+
+}
+.H-1{
+    background-color: rgb(192, 212, 255);
+}
+.He-2{
+    background-color: rgb(202, 251, 255);
+}
+.B-5{
+    background-color: rgb(212, 255, 203);
+}
+.Li-3{
+    background-color: rgb(255, 176, 176);
+}
+.Be-4{
+    background-color: rgb(255, 241, 210);
+}
+.F-9{
+    background-color: rgb(251, 205, 255);
+}
+.Al-13{
+    background-color: rgb(235, 243, 167);
+}
+.La-57{
+    background-color: rgb(236, 236, 236);
+}
+.Sc-21{
+    background-color: rgb(186, 236, 157);
+}
+.La-57-end{
+    background-color: rgb(132, 216, 216);
+}
+.Ac-89-end{
+    background-color: rgb(127, 255, 191);
+}
